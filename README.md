@@ -4,6 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Christopher%20Berns-blue)](https://www.linkedin.com/in/christopherberns)
 [![GitHub](https://img.shields.io/badge/GitHub-DrRojo-black)](https://github.com/DrRojo)
+[![GitHub](https://img.shields.io/badge/Pi Server & Workspace)](http://bernstechsolutions.sytes.net/)
 
 ## About Me
 
