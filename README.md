@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @DrRojo...AKA -> Christopher Berns
 
 **Army Veteran | Computer Science B.S. @ UNC-Charlotte**
 
