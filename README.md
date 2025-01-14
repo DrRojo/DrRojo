@@ -3,7 +3,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Christopher%20Berns-blue)](https://www.linkedin.com/in/christopherberns)
 [![GitHub](https://img.shields.io/badge/GitHub-DrRojo-black)](https://github.com/DrRojo)
-[![Website](https://img.shields.io/badge/Website-Pi%20Server%20%26%20Workspace-red)](http://bernstechsolutions.sytes.net)
+//[![Website](https://img.shields.io/badge/Website-Pi%20Server%20%26%20Workspace-red)](http://bernstechsolutions.sytes.net)
 
 ## About Me
 
